@@ -10,7 +10,7 @@
 :root {
   --highlightColor: #ff9f1c;
   --textColor: #070600;
-  --backgroundColor: #f7f7ff;
+  --backgroundColor: #fefefe;
 }
 
 body {
@@ -145,4 +145,3 @@ body {
 .mailto-link:focus-within .mailto-message {
 	display: block;
 }
-
